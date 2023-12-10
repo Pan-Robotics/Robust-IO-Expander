@@ -475,7 +475,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Robust-IO-Expander.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
