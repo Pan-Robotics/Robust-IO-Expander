@@ -1087,7 +1087,7 @@
       (net 27 "MISO") (pinfunction "5") (pintype "unspecified") (tstamp e1c0e9b0-774c-425d-a532-94980b022726))
     (pad "6" thru_hole circle (at 0 0 180) (size 1.6002 1.6002) (drill 1.0922) (layers "*.Cu" "*.Mask")
       (net 27 "MISO") (pinfunction "6") (pintype "unspecified") (tstamp 1d963148-6975-47da-b265-729a22f464a9))
-    (model "C:/Users/alexd/Documents/Pan Robotics/Robust IO Expander/1862055/1862055.stp"
+    (model "C:/Users/alexd/Documents/Pan Robotics/Products/Robust IO Expander/1862055/1862055.stp"
       (offset (xyz -9.5 -3 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1920,7 +1920,7 @@
       (net 22 "OutCS") (pinfunction "3") (pintype "unspecified") (tstamp 7fec789f-979c-4bbf-91ca-d01250abae55))
     (pad "4" thru_hole circle (at 0.000001 0 180) (size 1.6002 1.6002) (drill 1.0922) (layers "*.Cu" "*.Mask")
       (net 22 "OutCS") (pinfunction "4") (pintype "unspecified") (tstamp 8289c533-e50b-4c2b-adda-8fd742fc18bc))
-    (model "C:/Users/alexd/Documents/Pan Robotics/Robust IO Expander/1862042/1862042.step"
+    (model "C:/Users/alexd/Documents/Pan Robotics/Products/Robust IO Expander/1862042/1862042.step"
       (offset (xyz -4.5 -3 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4344,7 +4344,7 @@
       (net 133 "unconnected-(R36-Pad7)") (pinfunction "7") (pintype "unspecified+no_connect") (tstamp fb3f4925-c074-402d-be6c-ef2ed26eb32a))
     (pad "8" smd rect (at 1.4986 -0.974979 270) (size 0.508 0.2794) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 23 "VCC") (pinfunction "8") (pintype "unspecified") (tstamp ba2b9f03-f8f9-4ca2-9e1f-a71208bd6991))
-    (model "C:/Users/alexd/Documents/Pan Robotics/Robust IO Expander/RB061US_30TR/DIO_RB061U_ROM.step"
+    (model "C:/Users/alexd/Documents/Pan Robotics/Products/Robust IO Expander/RB061US_30TR/DIO_RB061U_ROM.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4570,7 +4570,7 @@
       (net 24 "GND") (pinfunction "C2") (pintype "unspecified") (tstamp e8bb5257-9be3-43fe-ac5f-bb4d534377ff))
     (pad "6" smd oval (at 0.950001 -0.649999 180) (size 0.6 0.42) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 24 "GND") (pinfunction "C1") (pintype "unspecified") (tstamp a13d8ea8-e197-4cb6-9d56-e2fe63597cbf))
-    (model "C:/Users/alexd/Documents/Pan Robotics/Robust IO Expander/BZX84C5V1TS_7_F/SOT-363_DIO.step"
+    (model "C:/Users/alexd/Documents/Pan Robotics/Products/Robust IO Expander/BZX84C5V1TS_7_F/SOT-363_DIO.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4794,7 +4794,7 @@
       (net 136 "unconnected-(J9-Pad9)") (pinfunction "9") (pintype "unspecified+no_connect") (tstamp 2fb40265-0229-40eb-8830-5be1481f6398))
     (pad "10" thru_hole circle (at -7.999999 -2.000001 270) (size 1.397 1.397) (drill 0.889) (layers "*.Cu" "*.Mask")
       (net 134 "unconnected-(J9-Pad10)") (pinfunction "10") (pintype "unspecified+no_connect") (tstamp 984fde6d-2900-4358-a72d-cdbdbf1aadc5))
-    (model "C:/Users/alexd/Documents/Pan Robotics/Robust IO Expander/LS2_105_01_F_D_RA1/LS2-105-01-F-D-RA1.stp"
+    (model "C:/Users/alexd/Documents/Pan Robotics/Products/Robust IO Expander/LS2_105_01_F_D_RA1/LS2-105-01-F-D-RA1.stp"
       (offset (xyz -4 -1.75 2.65))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 180))
@@ -5144,7 +5144,7 @@
       (net 24 "GND") (pinfunction "5") (pintype "unspecified") (tstamp 7ba5575e-70cf-404e-ac73-87f2a14010eb))
     (pad "6" thru_hole circle (at 0 0 180) (size 1.6002 1.6002) (drill 1.0922) (layers "*.Cu" "*.Mask")
       (net 24 "GND") (pinfunction "6") (pintype "unspecified") (tstamp e4b6c65a-8170-4620-857b-503b9c127523))
-    (model "C:/Users/alexd/Documents/Pan Robotics/Robust IO Expander/1862055/1862055.stp"
+    (model "C:/Users/alexd/Documents/Pan Robotics/Products/Robust IO Expander/1862055/1862055.stp"
       (offset (xyz -9.5 -3 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5424,7 +5424,7 @@
       (net 29 "EOUT1") (pinfunction "31") (pintype "passive") (tstamp 614ec679-2e48-4cfc-a19e-c5e0e192da2c))
     (pad "32" thru_hole circle (at 0 5) (size 1.65 1.65) (drill 1.1) (layers "*.Cu" "*.Mask")
       (net 28 "EOUT0") (pinfunction "32") (pintype "passive") (tstamp e37bca59-e4f6-48dc-9e01-db872658ba37))
-    (model "C:/Users/alexd/Documents/Pan Robotics/Robust IO Expander/LIB_1862262/1862262.stp"
+    (model "C:/Users/alexd/Documents/Pan Robotics/Products/Robust IO Expander/LIB_1862262/1862262.stp"
       (offset (xyz -2.479999982 -8.010000109 0.5500000037))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5973,7 +5973,7 @@
       (net 24 "GND") (pinfunction "C2") (pintype "unspecified") (tstamp a85a9876-04e1-4283-a427-ad07d018ccec))
     (pad "6" smd oval (at 0.950001 -0.649999 180) (size 0.6 0.42) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 24 "GND") (pinfunction "C1") (pintype "unspecified") (tstamp b33e29df-2d76-4668-bd88-a8d19c3534cb))
-    (model "C:/Users/alexd/Documents/Pan Robotics/Robust IO Expander/BZX84C5V1TS_7_F/SOT-363_DIO.step"
+    (model "C:/Users/alexd/Documents/Pan Robotics/Products/Robust IO Expander/BZX84C5V1TS_7_F/SOT-363_DIO.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6445,7 +6445,7 @@
         )
       )
     )
-    (model "C:/Users/alexd/Documents/Pan Robotics/Robust IO Expander/SRR6038_100Y/IND_BOURNS_SRR6038.step"
+    (model "C:/Users/alexd/Documents/Pan Robotics/Products/Robust IO Expander/SRR6038_100Y/IND_BOURNS_SRR6038.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6587,7 +6587,7 @@
       (net 25 "SCK") (pinfunction "9") (pintype "unspecified") (tstamp abe08350-9381-4f7b-9600-083df1453545))
     (pad "10" thru_hole circle (at -7.999999 2.000001 90) (size 1.397 1.397) (drill 0.889) (layers "*.Cu" "*.Mask")
       (net 25 "SCK") (pinfunction "10") (pintype "unspecified") (tstamp 6f209804-d1bf-4fa3-969f-2e305bfeb388))
-    (model "C:/Users/alexd/Documents/Pan Robotics/Robust IO Expander/LS2_105_01_F_D_RA2/LS2-105-01-F-D-RA2.stp"
+    (model "C:/Users/alexd/Documents/Pan Robotics/Products/Robust IO Expander/LS2_105_01_F_D_RA2/LS2-105-01-F-D-RA2.stp"
       (offset (xyz -4 -3.5 2.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 180))
@@ -6867,7 +6867,7 @@
       (net 6 "EIN1") (pinfunction "31") (pintype "passive") (tstamp 4e03d067-aa62-4af5-a479-aefb2b50999e))
     (pad "32" thru_hole circle (at 0 5) (size 1.65 1.65) (drill 1.1) (layers "*.Cu" "*.Mask")
       (net 5 "EIN0") (pinfunction "32") (pintype "passive") (tstamp 24757d8b-8504-4570-adb5-2bcd1b27d3aa))
-    (model "C:/Users/alexd/Documents/Pan Robotics/Robust IO Expander/LIB_1862262/1862262.stp"
+    (model "C:/Users/alexd/Documents/Pan Robotics/Products/Robust IO Expander/LIB_1862262/1862262.stp"
       (offset (xyz -2.479999982 -8.010000109 0.5500000037))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
